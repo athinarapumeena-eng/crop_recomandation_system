@@ -1,1 +1,0 @@
-# crop_recomandation_system
